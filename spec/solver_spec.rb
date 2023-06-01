@@ -22,7 +22,6 @@ RSpec.describe Solver do
     end
   end
 
-
   describe '#reverse' do
     it 'returns the reversed word' do
       expect(solver.reverse('hello')).to eq('olleh')
