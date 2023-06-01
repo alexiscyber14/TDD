@@ -17,13 +17,12 @@ RSpec.describe Solver do
     end
   end
 
-    
   describe '#reverse' do
     it 'returns the reversed word' do
       expect(solver.reverse('hello')).to eq('olleh')
     end
   end
-  
+
   describe '#fizzbuzz' do
     it 'returns "fizz" when the number is divisible by 3' do
       expect(solver.fizzbuzz(3)).to eq('fizz')
