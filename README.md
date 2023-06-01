@@ -132,7 +132,7 @@ If you like this project you can give it a ⭐️.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank <a href="https://www.microverse.org/">MICROVERSE</a> for their contribution to the material used in this project.
+I would like to thank <a href="https://github.com/microverseinc">MICROVERSE</a> for their contribution to the material used in this project.
 
 
 ## License
