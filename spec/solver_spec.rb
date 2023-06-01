@@ -15,6 +15,12 @@ RSpec.describe Solver do
       expect(solver.factorial(5)).to eq(120)
       expect(solver.factorial(10)).to eq(3_628_800)
     end
+  end
 
+    
+  describe '#reverse' do
+    it 'returns the reversed word' do
+      expect(solver.reverse('hello')).to eq('olleh')
+    end
   end
 end
